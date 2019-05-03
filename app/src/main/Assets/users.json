@@ -1,0 +1,22 @@
+{
+    "users":
+[
+    {
+                "id":1,
+                "name":"Allysa",
+                "email":"Allysasd29@gmail.com"
+        },
+        {
+                "id":2,
+                "name":"Shafira Niesya Sabilla",
+                "email":"Niesyafhiras@gmail.com"
+        },
+        {
+
+          "id":3,
+          "name":"Park SHin Hye",
+          "email":"HelloSydney@gmail.com"
+
+        }
+    ]
+}
